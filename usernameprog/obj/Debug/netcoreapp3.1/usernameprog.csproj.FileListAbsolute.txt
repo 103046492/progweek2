@@ -1,3 +1,11 @@
 C:\Users\103046492\Desktop\progweek2\usernameprog\obj\Debug\netcoreapp3.1\usernameprog.csprojAssemblyReference.cache
 C:\Users\103046492\Desktop\progweek2\usernameprog\obj\Debug\netcoreapp3.1\usernameprog.AssemblyInfoInputs.cache
 C:\Users\103046492\Desktop\progweek2\usernameprog\obj\Debug\netcoreapp3.1\usernameprog.AssemblyInfo.cs
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.exe
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.deps.json
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.runtimeconfig.json
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.runtimeconfig.dev.json
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.dll
+C:\Users\103046492\Desktop\progweek2\usernameprog\bin\Debug\netcoreapp3.1\usernameprog.pdb
+C:\Users\103046492\Desktop\progweek2\usernameprog\obj\Debug\netcoreapp3.1\usernameprog.dll
+C:\Users\103046492\Desktop\progweek2\usernameprog\obj\Debug\netcoreapp3.1\usernameprog.pdb

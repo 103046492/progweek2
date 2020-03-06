@@ -7,24 +7,31 @@ namespace usernameprog
         static void Main(string[] args)
         {
             int username;
+            int password;
             
             Console.WriteLine("Enter Username");
             username = int.Parse(Console.ReadLine());
-
             
-            if(username = 103046492)
+            
+            if(username == 103046492)
                 Console.WriteLine("Enter Password");
+        
             else
+            {
                 Console.WriteLine("Wrong User");
+            }
             
-            int password;
+            password = int.Parse(Console.ReadLine());
             
-            passwrod = int.Parse(Console.ReadLine());
-            if(password = 123456)
-                Console.WriteLine("Login Successful");
-            else 
+            if(password == 123456)
+            {
+                    Console.WriteLine("Login Successful");
+            }
+            
+            else
+            { 
                 Console.WriteLine("Login Unsuccessful");
-            Console.ReadLine();
+            }Console.ReadLine();
         }
     }
 }
