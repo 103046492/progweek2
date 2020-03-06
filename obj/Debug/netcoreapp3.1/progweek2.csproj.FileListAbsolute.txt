@@ -1,0 +1,11 @@
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.exe
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.deps.json
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.runtimeconfig.json
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.runtimeconfig.dev.json
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.dll
+C:\Users\103046492\Desktop\progweek2\bin\Debug\netcoreapp3.1\progweek2.pdb
+C:\Users\103046492\Desktop\progweek2\obj\Debug\netcoreapp3.1\progweek2.csprojAssemblyReference.cache
+C:\Users\103046492\Desktop\progweek2\obj\Debug\netcoreapp3.1\progweek2.AssemblyInfoInputs.cache
+C:\Users\103046492\Desktop\progweek2\obj\Debug\netcoreapp3.1\progweek2.AssemblyInfo.cs
+C:\Users\103046492\Desktop\progweek2\obj\Debug\netcoreapp3.1\progweek2.dll
+C:\Users\103046492\Desktop\progweek2\obj\Debug\netcoreapp3.1\progweek2.pdb
